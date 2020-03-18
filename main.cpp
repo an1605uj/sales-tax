@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
-#include "ItemCategory.hpp"
-#include "item.hpp"
-#include "Tax.hpp"
+#include "header/ItemCategory.hpp"
+#include "header/item.hpp"
+#include "header/tax.hpp"
 using namespace std;
 vector<Item> basket; //stores all items of a basket
 vector<string> order; // stores each order of item

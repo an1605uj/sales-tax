@@ -1,7 +1,7 @@
 
 #include <bits/stdc++.h>
-#include "item.hpp"
-#include "tax.hpp"
+#include "../header/item.hpp"
+#include "../header/tax.hpp"
 using namespace std;
 
 double Tax::getTaxOnItem(Item item)
